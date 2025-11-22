@@ -41,6 +41,9 @@
     <ClCompile Include="triangle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="storageshapes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="shapetype.h">
@@ -60,6 +63,9 @@
     </ClInclude>
     <ClInclude Include="triangle.h">
       <Filter>Form Files</Filter>
+    </ClInclude>
+    <ClInclude Include="storageshapes.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
