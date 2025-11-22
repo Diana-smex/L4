@@ -67,5 +67,8 @@
     <ClInclude Include="storageshapes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="QtWidgetsApplication.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

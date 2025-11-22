@@ -107,6 +107,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="circle.h" />
+    <ClInclude Include="QtWidgetsApplication.h" />
     <ClInclude Include="rectangle.h" />
     <ClInclude Include="shape.h" />
     <ClInclude Include="shapetype.h" />
