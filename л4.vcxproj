@@ -102,6 +102,7 @@
     <ClCompile Include="rectangle.cpp" />
     <ClCompile Include="shape.cpp" />
     <ClCompile Include="square.cpp" />
+    <ClCompile Include="triangle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="circle.h" />
@@ -109,6 +110,7 @@
     <ClInclude Include="shape.h" />
     <ClInclude Include="shapetype.h" />
     <ClInclude Include="square.h" />
+    <ClInclude Include="triangle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Condition="Exists('$(QtMsBuild)\qt.targets')">

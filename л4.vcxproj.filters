@@ -38,6 +38,9 @@
     <ClCompile Include="square.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="shapetype.h">
@@ -54,6 +57,9 @@
     </ClInclude>
     <ClInclude Include="square.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="triangle.h">
+      <Filter>Form Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
